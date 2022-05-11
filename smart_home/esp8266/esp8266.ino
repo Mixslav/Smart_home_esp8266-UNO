@@ -66,8 +66,8 @@ char auth[] = "_MJrfol9yUZU3CSqUUmQ8dAhoiQWSHET";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "AndroidAP5552";   //enter your wi-fi name
-char pass[] = "enoc2257";
+char ssid[] = "AndroidAP";   //enter your wi-fi name
+char pass[] = "pass";
 
 BlynkTimer timer; // inicijalizacija tajmera iz BlynkSimpleEsp8266.h biblioteke
 
